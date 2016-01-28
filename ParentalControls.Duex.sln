@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParentalControls.Duex", "ParentalControls.Duex\ParentalControls.Duex.csproj", "{B24D6B62-3A83-4CA8-895B-F4E26930259F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParentalControls.Duex.Library", "ParentalControls.Duex.Library\ParentalControls.Duex.Library.csproj", "{5897ABCF-7E1F-4817-93FA-5E6C7314631E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B24D6B62-3A83-4CA8-895B-F4E26930259F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B24D6B62-3A83-4CA8-895B-F4E26930259F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B24D6B62-3A83-4CA8-895B-F4E26930259F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5897ABCF-7E1F-4817-93FA-5E6C7314631E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5897ABCF-7E1F-4817-93FA-5E6C7314631E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5897ABCF-7E1F-4817-93FA-5E6C7314631E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5897ABCF-7E1F-4817-93FA-5E6C7314631E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
